@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to My New Blog
 
-You can use the [editor on GitHub](https://github.com/zinminphyo0/zinminphyo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## I'm Start Hunting 2020-March-6
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## I Received Thanks List and Bounty in 2020
 
-### Markdown
+Acknowledgements Of Mail.ru,Verizon Media h1-2010 Open,TTS Bug Bounty,U.S. Dept Of Defense,Private,,,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I got USD 100+ from private program
 
-```markdown
-Syntax highlighted code block
+I got €300+ from private program
 
-# Header 1
-## Header 2
-### Header 3
+€165 Rewards From Zerocopter Private Program (Oct)
 
-- Bulleted
-- List
+100 USD Rewards From Private Program (Oct)
 
-1. Numbered
-2. List
+$37.26 Reward (Oct)
 
-**Bold** and _Italic_ and `Code` text
+Clario Bug Bounty Program Thank List
 
-[Link](url) and ![Image](src)
-```
+Spokeo Bug Bounty Program($ 100 Bounty)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+TradingView Bug Bounty Program(TradingView 3 months PRO Account for free)
 
-### Jekyll Themes
+Mediawijzer Responsible disclosure($ 20 Amazon Gift Card Bounty)
+FREE Anghami Plus Bug Reporting Program(one month free Anghami Plus)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zinminphyo0/zinminphyo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Bentley Systems’ Responsible Disclosure Program ($100 Bounty)
 
-### Support or Contact
+Telekom HoF
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+TTS Bug Bounty Thanks List
+
+Shopify HackerOne Thanks List
+
+HEMA (‎‎€50 Bounty)
+
+Zapier Bounty Program ($150 Bounty – HoF)
+
+FIRST bug bounty program ($50 Bounty – Hall of Fame)
+
+CoinPayments Bounty Program ($100 Bounty)
+
+Check Point White Hat Thank List
+
+Edmodo Bug Bounty Program ($50 Bounty)
+
+SpeakerMatch Bug Bounty Program ($50 Bounty)
+
+Acknowledgements Of BlackBerry
+
+
